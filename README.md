@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on my personal project
 - 🌱 I’m currently learning Python & Go
 - ✨ Interested in backend things
-- 🤔 Looking for help with my life
 
 <details>
   <summary><b>My Github Stats</b></summary>
