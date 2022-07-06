@@ -11,3 +11,4 @@ Here's a list of all (I _think_) the languages I've written code in!
 - PHP (Native, CodeIgniter, Laravel)
 - Python (Django, Flask)
 - JavaScript for the backend (Express.js)
+- Go (Gorilla, Gin)
